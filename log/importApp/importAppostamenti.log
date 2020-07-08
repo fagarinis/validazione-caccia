@@ -1,0 +1,14 @@
+REPORT IMPORT APPOSTAMENTI
+################################################################
+Appostamenti elaborati da CSV: 12223
+Appostamenti inseriti nel database: 12223
+################################################################
+ERRORI CC NON NUMERICO
+ERRORI CACCIATORE NON PRESENTE IN SIFV
+1. ErroreImportAppostamenti(descrizioneCacciatore=454549 RICCO` REMO RCCRME53S10H222Z AR, message=Cacciatore non presente in SIFV)
+2. ErroreImportAppostamenti(descrizioneCacciatore=9073775 FAROLFI MARCELLO FRLMCL32S19C065X FI, message=Cacciatore non presente in SIFV)
+3. ErroreImportAppostamenti(descrizioneCacciatore=233963 BINELLI RUNE BNLRNU18H08C265O FI, message=Cacciatore non presente in SIFV)
+4. ErroreImportAppostamenti(descrizioneCacciatore=1054721 GIOE' VALTER GIOVTR54C18A241H GR, message=Cacciatore non presente in SIFV)
+5. ErroreImportAppostamenti(descrizioneCacciatore=168355 NANNIPIERI ALDO NNNLDA47H09E625D LI, message=Cacciatore non presente in SIFV)
+6. ErroreImportAppostamenti(descrizioneCacciatore=197886 Mosti Carlo MSTCRL36D26F023T  MS, message=Cacciatore non presente in SIFV)
+ERRORI PROCEDURALI
